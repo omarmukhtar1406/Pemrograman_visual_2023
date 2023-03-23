@@ -2,7 +2,7 @@ from tkinter import Frame,Label,Entry,Button,YES,BOTH,END,Tk,W
 class FrmBelah_Ketupat:
     def __init__(self, parent, title):
         self.parent = parent
-        self.parent.geometry("400x200")
+        self.parent.geometry("400x300")
         self.parent.title(title)
         self.parent.protocol("WM_DELETE_WINDOW", self.onKeluar)
         self.aturKomponen()
@@ -35,7 +35,7 @@ class FrmBelah_Ketupat:
         d1 = int(self.txtd1.get())
         d2 = int(self.txtd2.get())  
         S = int(self.txtsisi.get())
-        luas, kel = self.luasKeliling(d1, d2, S)
+        kel, luas = self.luasKeliling(d1, d2, S)
         self.txtLuas.delete(0,END)
         self.txtLuas.insert(END,str(luas))
         self.txtKeliling.delete(0,END)
