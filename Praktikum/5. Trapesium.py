@@ -44,7 +44,7 @@ class FrmTrapesium:
         Sc = int(self.txtSc.get())    
         Sd = int(self.txtSd.get())
         T= int(self.txtTinggi.get())
-        Luas, Kel = self.luasKeliling(Sa, Sb, Sc, Sd, T)
+        Kel, Luas = self.luasKeliling(Sa, Sb, Sc, Sd, T)
         self.txtKeliling.delete(0,END)
         self.txtKeliling.insert(END,str(Kel))
         self.txtLuas.delete(0,END)
@@ -60,7 +60,7 @@ class FrmTrapesium:
 
 if __name__ == '__main__' :
     root = Tk()
-    aplikasi = FrmTrapesium(root, "Program Luas dan Trapesium" )
+    aplikasi = FrmTrapesium(root, "Program Luas dan Keliling Trapesium" )
     root.mainloop()
 
             
