@@ -1,0 +1,11 @@
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\Layanglayang\Layangan\bin\Debug\Segitiga.exe.config
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\Layanglayang\Layangan\obj\Debug\Segitiga.exe
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\Layanglayang\Layangan\obj\Debug\Segitiga.xml
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\Layanglayang\Layangan\obj\Debug\Segitiga.pdb
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\Layanglayang\Layangan\bin\Debug\Segitiga.exe
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\Layanglayang\Layangan\bin\Debug\Segitiga.pdb
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\Layanglayang\Layangan\bin\Debug\Segitiga.xml
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\Layanglayang\Layangan\obj\Debug\Layangan.vbprojResolveAssemblyReference.cache
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\Layanglayang\Layangan\obj\Debug\Segitiga.Form1.resources
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\Layanglayang\Layangan\obj\Debug\Segitiga.Resources.resources
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\Layanglayang\Layangan\obj\Debug\Layangan.vbproj.GenerateResource.Cache
