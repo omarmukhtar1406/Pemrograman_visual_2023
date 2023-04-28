@@ -1,0 +1,11 @@
+c:\users\acer\onedrive\documents\visual studio 2015\Projects\Segitiga\Segitiga\bin\Debug\Segitiga.exe.config
+c:\users\acer\onedrive\documents\visual studio 2015\Projects\Segitiga\Segitiga\bin\Debug\Segitiga.exe
+c:\users\acer\onedrive\documents\visual studio 2015\Projects\Segitiga\Segitiga\bin\Debug\Segitiga.pdb
+c:\users\acer\onedrive\documents\visual studio 2015\Projects\Segitiga\Segitiga\bin\Debug\Segitiga.xml
+c:\users\acer\onedrive\documents\visual studio 2015\Projects\Segitiga\Segitiga\obj\Debug\Segitiga.vbprojResolveAssemblyReference.cache
+c:\users\acer\onedrive\documents\visual studio 2015\Projects\Segitiga\Segitiga\obj\Debug\Segitiga.Form1.resources
+c:\users\acer\onedrive\documents\visual studio 2015\Projects\Segitiga\Segitiga\obj\Debug\Segitiga.Resources.resources
+c:\users\acer\onedrive\documents\visual studio 2015\Projects\Segitiga\Segitiga\obj\Debug\Segitiga.vbproj.GenerateResource.Cache
+c:\users\acer\onedrive\documents\visual studio 2015\Projects\Segitiga\Segitiga\obj\Debug\Segitiga.exe
+c:\users\acer\onedrive\documents\visual studio 2015\Projects\Segitiga\Segitiga\obj\Debug\Segitiga.xml
+c:\users\acer\onedrive\documents\visual studio 2015\Projects\Segitiga\Segitiga\obj\Debug\Segitiga.pdb
