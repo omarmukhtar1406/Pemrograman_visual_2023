@@ -1,0 +1,12 @@
+C:\Users\ACER\AppData\Local\Temporary Projects\ReamurtoKelvin\bin\Debug\ReamurtoKelvin.exe.config
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\ReamurtoKelvin\ReamurtoKelvin\bin\Debug\ReamurtoKelvin.exe.config
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\ReamurtoKelvin\ReamurtoKelvin\bin\Debug\ReamurtoKelvin.exe
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\ReamurtoKelvin\ReamurtoKelvin\bin\Debug\ReamurtoKelvin.pdb
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\ReamurtoKelvin\ReamurtoKelvin\bin\Debug\ReamurtoKelvin.xml
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\ReamurtoKelvin\ReamurtoKelvin\obj\Debug\ReamurtoKelvin.vbprojResolveAssemblyReference.cache
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\ReamurtoKelvin\ReamurtoKelvin\obj\Debug\ReamurtoKelvin.Form1.resources
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\ReamurtoKelvin\ReamurtoKelvin\obj\Debug\ReamurtoKelvin.Resources.resources
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\ReamurtoKelvin\ReamurtoKelvin\obj\Debug\ReamurtoKelvin.vbproj.GenerateResource.Cache
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\ReamurtoKelvin\ReamurtoKelvin\obj\Debug\ReamurtoKelvin.exe
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\ReamurtoKelvin\ReamurtoKelvin\obj\Debug\ReamurtoKelvin.xml
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\ReamurtoKelvin\ReamurtoKelvin\obj\Debug\ReamurtoKelvin.pdb

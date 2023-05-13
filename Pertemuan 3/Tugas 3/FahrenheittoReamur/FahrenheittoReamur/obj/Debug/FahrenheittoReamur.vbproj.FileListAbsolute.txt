@@ -1,0 +1,12 @@
+C:\Users\ACER\AppData\Local\Temporary Projects\FahrenheittoReamur\bin\Debug\FahrenheittoReamur.exe.config
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\FahrenheittoReamur\FahrenheittoReamur\bin\Debug\FahrenheittoReamur.exe.config
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\FahrenheittoReamur\FahrenheittoReamur\bin\Debug\FahrenheittoReamur.exe
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\FahrenheittoReamur\FahrenheittoReamur\bin\Debug\FahrenheittoReamur.pdb
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\FahrenheittoReamur\FahrenheittoReamur\bin\Debug\FahrenheittoReamur.xml
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\FahrenheittoReamur\FahrenheittoReamur\obj\Debug\FahrenheittoReamur.vbprojResolveAssemblyReference.cache
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\FahrenheittoReamur\FahrenheittoReamur\obj\Debug\FahrenheittoReamur.Form1.resources
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\FahrenheittoReamur\FahrenheittoReamur\obj\Debug\FahrenheittoReamur.Resources.resources
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\FahrenheittoReamur\FahrenheittoReamur\obj\Debug\FahrenheittoReamur.vbproj.GenerateResource.Cache
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\FahrenheittoReamur\FahrenheittoReamur\obj\Debug\FahrenheittoReamur.exe
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\FahrenheittoReamur\FahrenheittoReamur\obj\Debug\FahrenheittoReamur.xml
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\FahrenheittoReamur\FahrenheittoReamur\obj\Debug\FahrenheittoReamur.pdb
