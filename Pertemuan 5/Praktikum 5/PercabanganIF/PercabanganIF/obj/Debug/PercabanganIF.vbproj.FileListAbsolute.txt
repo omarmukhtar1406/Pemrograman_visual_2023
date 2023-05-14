@@ -1,0 +1,13 @@
+C:\Users\ACER\AppData\Local\Temporary Projects\PercabanganIF\bin\Debug\PercabanganIF.exe.config
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\PercabanganIF\PercabanganIF\bin\Debug\PercabanganIF.exe.config
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\PercabanganIF\PercabanganIF\bin\Debug\PercabanganIF.exe
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\PercabanganIF\PercabanganIF\bin\Debug\PercabanganIF.pdb
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\PercabanganIF\PercabanganIF\bin\Debug\PercabanganIF.xml
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\PercabanganIF\PercabanganIF\obj\Debug\PercabanganIF.vbprojResolveAssemblyReference.cache
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\PercabanganIF\PercabanganIF\obj\Debug\PercabanganIF.Form1.resources
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\PercabanganIF\PercabanganIF\obj\Debug\PercabanganIF.Resources.resources
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\PercabanganIF\PercabanganIF\obj\Debug\PercabanganIF.vbproj.GenerateResource.Cache
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\PercabanganIF\PercabanganIF\obj\Debug\PercabanganIF.exe
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\PercabanganIF\PercabanganIF\obj\Debug\PercabanganIF.xml
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\PercabanganIF\PercabanganIF\obj\Debug\PercabanganIF.pdb
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\PercabanganIF\PercabanganIF\obj\Debug\PercabanganIF.Form2.resources

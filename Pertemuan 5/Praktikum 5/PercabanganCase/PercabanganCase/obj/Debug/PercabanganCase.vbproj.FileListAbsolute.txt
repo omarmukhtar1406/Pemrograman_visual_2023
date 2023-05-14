@@ -1,0 +1,13 @@
+C:\Users\ACER\AppData\Local\Temporary Projects\PercabanganCase\bin\Debug\PercabanganCase.exe.config
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\PercabanganCase\PercabanganCase\bin\Debug\PercabanganCase.exe.config
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\PercabanganCase\PercabanganCase\bin\Debug\PercabanganCase.exe
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\PercabanganCase\PercabanganCase\bin\Debug\PercabanganCase.pdb
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\PercabanganCase\PercabanganCase\bin\Debug\PercabanganCase.xml
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\PercabanganCase\PercabanganCase\obj\Debug\PercabanganCase.vbprojResolveAssemblyReference.cache
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\PercabanganCase\PercabanganCase\obj\Debug\PercabanganCase.Form1.resources
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\PercabanganCase\PercabanganCase\obj\Debug\PercabanganCase.Resources.resources
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\PercabanganCase\PercabanganCase\obj\Debug\PercabanganCase.vbproj.GenerateResource.Cache
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\PercabanganCase\PercabanganCase\obj\Debug\PercabanganCase.exe
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\PercabanganCase\PercabanganCase\obj\Debug\PercabanganCase.xml
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\PercabanganCase\PercabanganCase\obj\Debug\PercabanganCase.pdb
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\PercabanganCase\PercabanganCase\obj\Debug\PercabanganCase.Form2.resources
