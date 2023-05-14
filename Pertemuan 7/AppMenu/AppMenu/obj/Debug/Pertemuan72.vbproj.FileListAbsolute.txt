@@ -1,0 +1,14 @@
+C:\Users\ACER\AppData\Local\Temporary Projects\Pertemuan72\bin\Debug\Pertemuan72.exe.config
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\Pertemuan72\Pertemuan72\bin\Debug\Pertemuan72.exe.config
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\Pertemuan72\Pertemuan72\bin\Debug\Pertemuan72.exe
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\Pertemuan72\Pertemuan72\bin\Debug\Pertemuan72.pdb
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\Pertemuan72\Pertemuan72\bin\Debug\Pertemuan72.xml
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\Pertemuan72\Pertemuan72\obj\Debug\Pertemuan72.vbprojResolveAssemblyReference.cache
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\Pertemuan72\Pertemuan72\obj\Debug\Pertemuan72.Form1.resources
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\Pertemuan72\Pertemuan72\obj\Debug\Pertemuan72.Form2.resources
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\Pertemuan72\Pertemuan72\obj\Debug\Pertemuan72.Form3.resources
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\Pertemuan72\Pertemuan72\obj\Debug\Pertemuan72.Resources.resources
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\Pertemuan72\Pertemuan72\obj\Debug\Pertemuan72.vbproj.GenerateResource.Cache
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\Pertemuan72\Pertemuan72\obj\Debug\Pertemuan72.exe
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\Pertemuan72\Pertemuan72\obj\Debug\Pertemuan72.xml
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\Pertemuan72\Pertemuan72\obj\Debug\Pertemuan72.pdb
