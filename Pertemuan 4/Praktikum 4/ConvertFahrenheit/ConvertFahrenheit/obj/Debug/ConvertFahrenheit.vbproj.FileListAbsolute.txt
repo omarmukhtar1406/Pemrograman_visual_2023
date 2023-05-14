@@ -1,0 +1,12 @@
+C:\Users\ACER\AppData\Local\Temporary Projects\ConvertFahrenheit\bin\Debug\ConvertFahrenheit.exe.config
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\ConvertFahrenheit\ConvertFahrenheit\bin\Debug\ConvertFahrenheit.exe.config
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\ConvertFahrenheit\ConvertFahrenheit\bin\Debug\ConvertFahrenheit.exe
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\ConvertFahrenheit\ConvertFahrenheit\bin\Debug\ConvertFahrenheit.pdb
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\ConvertFahrenheit\ConvertFahrenheit\bin\Debug\ConvertFahrenheit.xml
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\ConvertFahrenheit\ConvertFahrenheit\obj\Debug\ConvertFahrenheit.vbprojResolveAssemblyReference.cache
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\ConvertFahrenheit\ConvertFahrenheit\obj\Debug\ConvertFahrenheit.Form1.resources
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\ConvertFahrenheit\ConvertFahrenheit\obj\Debug\ConvertFahrenheit.Resources.resources
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\ConvertFahrenheit\ConvertFahrenheit\obj\Debug\ConvertFahrenheit.vbproj.GenerateResource.Cache
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\ConvertFahrenheit\ConvertFahrenheit\obj\Debug\ConvertFahrenheit.exe
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\ConvertFahrenheit\ConvertFahrenheit\obj\Debug\ConvertFahrenheit.xml
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\ConvertFahrenheit\ConvertFahrenheit\obj\Debug\ConvertFahrenheit.pdb

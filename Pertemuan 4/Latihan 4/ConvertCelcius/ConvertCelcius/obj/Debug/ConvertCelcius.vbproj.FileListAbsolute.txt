@@ -1,0 +1,12 @@
+C:\Users\ACER\AppData\Local\Temporary Projects\ConvertCelcius\bin\Debug\ConvertCelcius.exe.config
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\ConvertCelcius\ConvertCelcius\bin\Debug\ConvertCelcius.exe.config
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\ConvertCelcius\ConvertCelcius\bin\Debug\ConvertCelcius.exe
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\ConvertCelcius\ConvertCelcius\bin\Debug\ConvertCelcius.pdb
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\ConvertCelcius\ConvertCelcius\bin\Debug\ConvertCelcius.xml
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\ConvertCelcius\ConvertCelcius\obj\Debug\ConvertCelcius.vbprojResolveAssemblyReference.cache
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\ConvertCelcius\ConvertCelcius\obj\Debug\ConvertCelcius.Form1.resources
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\ConvertCelcius\ConvertCelcius\obj\Debug\ConvertCelcius.Resources.resources
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\ConvertCelcius\ConvertCelcius\obj\Debug\ConvertCelcius.vbproj.GenerateResource.Cache
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\ConvertCelcius\ConvertCelcius\obj\Debug\ConvertCelcius.exe
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\ConvertCelcius\ConvertCelcius\obj\Debug\ConvertCelcius.xml
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2015\Projects\ConvertCelcius\ConvertCelcius\obj\Debug\ConvertCelcius.pdb
