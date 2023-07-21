@@ -1,0 +1,29 @@
+C:\Users\ACER\AppData\Local\Temporary Projects\AppSewaMobil\bin\Debug\AppSewaMobil.exe.config
+C:\Users\ACER\AppData\Local\Temporary Projects\AppSewaMobil\bin\Debug\AppSewaMobil.exe
+C:\Users\ACER\AppData\Local\Temporary Projects\AppSewaMobil\bin\Debug\AppSewaMobil.pdb
+C:\Users\ACER\AppData\Local\Temporary Projects\AppSewaMobil\bin\Debug\AppSewaMobil.xml
+C:\Users\ACER\AppData\Local\Temporary Projects\AppSewaMobil\obj\Debug\AppSewaMobil.vbprojResolveAssemblyReference.cache
+C:\Users\ACER\AppData\Local\Temporary Projects\AppSewaMobil\obj\Debug\AppSewaMobil.Form1.resources
+C:\Users\ACER\AppData\Local\Temporary Projects\AppSewaMobil\obj\Debug\AppSewaMobil.Resources.resources
+C:\Users\ACER\AppData\Local\Temporary Projects\AppSewaMobil\obj\Debug\AppSewaMobil.vbproj.GenerateResource.Cache
+C:\Users\ACER\AppData\Local\Temporary Projects\AppSewaMobil\obj\Debug\AppSewaMobil.exe
+C:\Users\ACER\AppData\Local\Temporary Projects\AppSewaMobil\obj\Debug\AppSewaMobil.xml
+C:\Users\ACER\AppData\Local\Temporary Projects\AppSewaMobil\obj\Debug\AppSewaMobil.pdb
+D:\UMC\Semester 6\Pemrograman Visual\Tugas Besar\AppSewaMobil\AppSewaMobil\bin\Debug\AppSewaMobil.exe.config
+D:\UMC\Semester 6\Pemrograman Visual\Tugas Besar\AppSewaMobil\AppSewaMobil\obj\Debug\AppSewaMobil.exe
+D:\UMC\Semester 6\Pemrograman Visual\Tugas Besar\AppSewaMobil\AppSewaMobil\obj\Debug\AppSewaMobil.xml
+D:\UMC\Semester 6\Pemrograman Visual\Tugas Besar\AppSewaMobil\AppSewaMobil\obj\Debug\AppSewaMobil.pdb
+D:\UMC\Semester 6\Pemrograman Visual\Tugas Besar\AppSewaMobil\AppSewaMobil\bin\Debug\AppSewaMobil.exe
+D:\UMC\Semester 6\Pemrograman Visual\Tugas Besar\AppSewaMobil\AppSewaMobil\bin\Debug\AppSewaMobil.pdb
+D:\UMC\Semester 6\Pemrograman Visual\Tugas Besar\AppSewaMobil\AppSewaMobil\bin\Debug\AppSewaMobil.xml
+D:\UMC\Semester 6\Pemrograman Visual\Tugas Besar\AppSewaMobil\AppSewaMobil\obj\Debug\AppSewaMobil.vbprojResolveAssemblyReference.cache
+D:\UMC\Semester 6\Pemrograman Visual\Tugas Besar\AppSewaMobil\AppSewaMobil\obj\Debug\AppSewaMobil.Form1.resources
+D:\UMC\Semester 6\Pemrograman Visual\Tugas Besar\AppSewaMobil\AppSewaMobil\obj\Debug\AppSewaMobil.Resources.resources
+D:\UMC\Semester 6\Pemrograman Visual\Tugas Besar\AppSewaMobil\AppSewaMobil\obj\Debug\AppSewaMobil.vbproj.GenerateResource.Cache
+D:\UMC\Semester 6\Pemrograman Visual\Tugas Besar\AppSewaMobil\AppSewaMobil\obj\Debug\AppSewaMobil.FormMobil.resources
+D:\UMC\Semester 6\Pemrograman Visual\Tugas Besar\AppSewaMobil\AppSewaMobil\obj\Debug\AppSewaMobil.FormPenyewa.resources
+D:\UMC\Semester 6\Pemrograman Visual\Tugas Besar\AppSewaMobil\AppSewaMobil\obj\Debug\AppSewaMobil.FormUser.resources
+D:\UMC\Semester 6\Pemrograman Visual\Tugas Besar\AppSewaMobil\AppSewaMobil\obj\Debug\AppSewaMobil.Login.resources
+D:\UMC\Semester 6\Pemrograman Visual\Tugas Besar\AppSewaMobil\AppSewaMobil\bin\Debug\Newtonsoft.Json.dll
+D:\UMC\Semester 6\Pemrograman Visual\Tugas Besar\AppSewaMobil\AppSewaMobil\bin\Debug\Newtonsoft.Json.pdb
+D:\UMC\Semester 6\Pemrograman Visual\Tugas Besar\AppSewaMobil\AppSewaMobil\bin\Debug\Newtonsoft.Json.xml
