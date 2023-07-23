@@ -1,0 +1,16 @@
+C:\Users\ACER\AppData\Local\Temporary Projects\QuizVisual2023_Omar\bin\Debug\QuizVisual2023_Omar.exe.config
+D:\UMC\Semester 6\Pemrograman Visual\Pertemuan 14 - Quis\QuizVisual2023_Omar\QuizVisual2023_Omar\bin\Debug\QuizVisual2023_Omar.exe.config
+D:\UMC\Semester 6\Pemrograman Visual\Pertemuan 14 - Quis\QuizVisual2023_Omar\QuizVisual2023_Omar\bin\Debug\QuizVisual2023_Omar.exe
+D:\UMC\Semester 6\Pemrograman Visual\Pertemuan 14 - Quis\QuizVisual2023_Omar\QuizVisual2023_Omar\bin\Debug\QuizVisual2023_Omar.pdb
+D:\UMC\Semester 6\Pemrograman Visual\Pertemuan 14 - Quis\QuizVisual2023_Omar\QuizVisual2023_Omar\bin\Debug\QuizVisual2023_Omar.xml
+D:\UMC\Semester 6\Pemrograman Visual\Pertemuan 14 - Quis\QuizVisual2023_Omar\QuizVisual2023_Omar\bin\Debug\Newtonsoft.Json.dll
+D:\UMC\Semester 6\Pemrograman Visual\Pertemuan 14 - Quis\QuizVisual2023_Omar\QuizVisual2023_Omar\bin\Debug\Newtonsoft.Json.pdb
+D:\UMC\Semester 6\Pemrograman Visual\Pertemuan 14 - Quis\QuizVisual2023_Omar\QuizVisual2023_Omar\bin\Debug\Newtonsoft.Json.xml
+D:\UMC\Semester 6\Pemrograman Visual\Pertemuan 14 - Quis\QuizVisual2023_Omar\QuizVisual2023_Omar\obj\Debug\QuizVisual2023_Omar.vbprojResolveAssemblyReference.cache
+D:\UMC\Semester 6\Pemrograman Visual\Pertemuan 14 - Quis\QuizVisual2023_Omar\QuizVisual2023_Omar\obj\Debug\QuizVisual2023_Omar.Form1.resources
+D:\UMC\Semester 6\Pemrograman Visual\Pertemuan 14 - Quis\QuizVisual2023_Omar\QuizVisual2023_Omar\obj\Debug\QuizVisual2023_Omar.Resources.resources
+D:\UMC\Semester 6\Pemrograman Visual\Pertemuan 14 - Quis\QuizVisual2023_Omar\QuizVisual2023_Omar\obj\Debug\QuizVisual2023_Omar.vbproj.GenerateResource.Cache
+D:\UMC\Semester 6\Pemrograman Visual\Pertemuan 14 - Quis\QuizVisual2023_Omar\QuizVisual2023_Omar\obj\Debug\QuizVisual2023_Omar.exe
+D:\UMC\Semester 6\Pemrograman Visual\Pertemuan 14 - Quis\QuizVisual2023_Omar\QuizVisual2023_Omar\obj\Debug\QuizVisual2023_Omar.xml
+D:\UMC\Semester 6\Pemrograman Visual\Pertemuan 14 - Quis\QuizVisual2023_Omar\QuizVisual2023_Omar\obj\Debug\QuizVisual2023_Omar.pdb
+D:\UMC\Semester 6\Pemrograman Visual\Pertemuan 14 - Quis\QuizVisual2023_Omar\QuizVisual2023_Omar\obj\Debug\QuizVisual2023_Omar.Form2.resources
