@@ -9,7 +9,7 @@
     Public LoginForm As New Login
     Public mobil_baru As Boolean = False
     Public penyewa_baru As Boolean = False
-    Public users_bsru As Boolean = False
+    Public users_baru As Boolean = False
     Public admin_role As Boolean = False
     Public pelanggan_role As Boolean = False
     Public login_valid As Boolean = False
